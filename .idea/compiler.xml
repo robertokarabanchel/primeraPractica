@@ -9,8 +9,8 @@
         <module name="primeraPractica" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="primeraPractica" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="primeraPractica" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
